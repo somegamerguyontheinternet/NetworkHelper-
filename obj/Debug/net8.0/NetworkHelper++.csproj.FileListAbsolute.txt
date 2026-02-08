@@ -1,0 +1,14 @@
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\NetworkHelper++.exe
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\NetworkHelper++.deps.json
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\NetworkHelper++.runtimeconfig.json
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\NetworkHelper++.dll
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\NetworkHelper++.pdb
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\NetworkHelper++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\NetworkHelper++.AssemblyInfoInputs.cache
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\NetworkHelper++.AssemblyInfo.cs
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\NetworkHelper++.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\NetworkHelper++.dll
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\refint\NetworkHelper++.dll
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\NetworkHelper++.pdb
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\NetworkHelper++.genruntimeconfig.cache
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\ref\NetworkHelper++.dll

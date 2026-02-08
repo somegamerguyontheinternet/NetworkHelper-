@@ -1,0 +1,14 @@
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\Publicify.exe
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\Publicify.deps.json
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\Publicify.runtimeconfig.json
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\Publicify.dll
+C:\Users\jamie\source\repos\Publicify\Publicify\bin\Debug\net8.0\Publicify.pdb
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\Publicify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\Publicify.AssemblyInfoInputs.cache
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\Publicify.AssemblyInfo.cs
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\Publicify.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\Publicify.dll
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\refint\Publicify.dll
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\Publicify.pdb
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\Publicify.genruntimeconfig.cache
+C:\Users\jamie\source\repos\Publicify\Publicify\obj\Debug\net8.0\ref\Publicify.dll
